@@ -1,0 +1,9 @@
+body {
+	background: #ccc;
+	color: black;
+}
+
+body, html {
+	margin: 0;
+	padding: 0;
+}
